@@ -1,8 +1,10 @@
 # Zachary Boston
 
-CS student at NC State. Most of my work is in Rust and Python — I've been building language tooling, doing robotics on a real autonomous car platform, and picking up whatever else the coursework throws at me.
+CS graduate from NC State (May 2026). I run a self-managed Proxmox homelab and write most of my code in Rust and Python — infrastructure, language tooling, and robotics on a real autonomous car platform.
 
 ---
+
+**[homelab](https://github.com/Znboston/homelab)** — Self-managed virtualization environment on Proxmox VE. Linux VMs on segmented VLANs, a self-hosted Git server with disposable Linux and Windows CI runners, secrets management, single sign-on, a GitOps-managed Kubernetes cluster, and encrypted backups with tested restores.
 
 **[rust-interpreter](https://github.com/Znboston/rust-interpreter)** — Functional language interpreter written in Rust. Handles lexical and dynamic scoping, mutable cells, block expressions, and a static type checker that runs before evaluation.
 
